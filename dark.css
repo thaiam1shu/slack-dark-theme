@@ -4320,11 +4320,11 @@ button.c-button-unstyled.p-message_input_file_button {
 
 /* green */
 .p-channel_sidebar__channel--unread:not(.p-channel_sidebar__channel--muted)::before {
-  color:#61AF28!important;
+  color:#85754D!important;
 }
 
 .p-channel_sidebar__channel--unread:not(.p-channel_sidebar__channel--muted) span {
-  color:#61AF28!important;
+  color:#85754D!important;
   font-weight:bold!important;
 }
 
