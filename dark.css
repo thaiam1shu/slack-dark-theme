@@ -148,7 +148,7 @@ section.slack_menu_current_team_info.slack_menu_section { display: none; }
 
 .p-channel_sidebar__channel--selected:hover { background: #4B2E83 !important; }
 
-.p-channel_sidebar__link--selected:hover { background: #222222 !important; }
+.p-channel_sidebar__link--selected:hover { background: #4B2E83 !important; }
 
 .p-channel_sidebar__channel--selected::before, .p-channel_sidebar__channel--selected:hover::before, .p-channel_sidebar__channel--selected::after, .p-channel_sidebar__channel--selected:hover::after { color: #e6e6e6; }
 
@@ -416,7 +416,7 @@ button#main_emo_menu { margin-bottom: -2px; }
 
 #msg_form .msg_mentions_button { color: #949494; margin-bottom: -2px;}
 
-#msg_form .msg_mentions_button:hover { color: #56b68b; }
+#msg_form .msg_mentions_button:hover { color: #85754D; }
 
 #msg_input { background: #545454; border-color: #424242; color: #e6e6e6; }
 
@@ -446,7 +446,7 @@ button#main_emo_menu { margin-bottom: -2px; }
 
 #primary_file_button { background: padding-box #2d2d2d; border-color: #424242; color: #949494; }
 
-#primary_file_button.active, #primary_file_button.focus-ring, #primary_file_button:focus, #primary_file_button:hover { background: #2d2d2d; border: #2d2d2d; color: #56b68b; }
+#primary_file_button.active, #primary_file_button.focus-ring, #primary_file_button:focus, #primary_file_button:hover { background: #2d2d2d; border: #2d2d2d; color: #85754D; }
 
 #footer, #footer.footer_msg_input { background: #222; box-shadow: inset 1px 0 0 0 #222; }
 
